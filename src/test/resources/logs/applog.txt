@@ -1,0 +1,2 @@
+INFO    2019-07-15 11:56:12,467 [main] utilities.TestLogs  - This is the information log
+ERROR   2019-07-15 11:56:12,469 [main] utilities.TestLogs  - Here the error logs will be pronted
